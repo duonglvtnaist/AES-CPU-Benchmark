@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtiny-aes.a CMakeFiles/tiny-aes.dir/aes.c.o
+/usr/bin/ranlib libtiny-aes.a

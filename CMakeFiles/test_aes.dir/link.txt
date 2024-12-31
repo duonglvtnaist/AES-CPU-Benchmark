@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_aes.dir/test.c.o -o test_aes  libtiny-aes.a -lrt 
