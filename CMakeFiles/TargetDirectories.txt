@@ -1,0 +1,4 @@
+/home/duong/AES/tiny-AES-c-master/CMakeFiles/tiny-aes.dir
+/home/duong/AES/tiny-AES-c-master/CMakeFiles/test_aes.dir
+/home/duong/AES/tiny-AES-c-master/CMakeFiles/edit_cache.dir
+/home/duong/AES/tiny-AES-c-master/CMakeFiles/rebuild_cache.dir
