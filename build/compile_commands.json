@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/duong/AES/tiny-AES-c-master/build",
+  "command": "/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/bin/mb-gcc   -g -o CMakeFiles/tiny-aes.dir/aes.c.o -c /home/duong/AES/tiny-AES-c-master/aes.c",
+  "file": "/home/duong/AES/tiny-AES-c-master/aes.c"
+},
+{
+  "directory": "/home/duong/AES/tiny-AES-c-master/build",
+  "command": "/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/bin/mb-gcc  -I/home/duong/AES/tiny-AES-c-master -g -o CMakeFiles/test_aes.dir/test.c.o -c /home/duong/AES/tiny-AES-c-master/test.c",
+  "file": "/home/duong/AES/tiny-AES-c-master/test.c"
+}
+]

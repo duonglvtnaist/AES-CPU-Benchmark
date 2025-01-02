@@ -1,0 +1,51 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/x86_64-oesdk-linux/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/11.2.0/include",
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/x86_64-oesdk-linux/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/11.2.0/include-fixed",
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/microblazeeb-xilinx-elf/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/x86_64-oesdk-linux/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/11.2.0",
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/x86_64-oesdk-linux/usr/lib/microblaze-xilinx-elf/gcc",
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/microblazeeb-xilinx-elf/usr/lib/microblaze-xilinx-elf/11.2.0",
+						"/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/microblazeeb-xilinx-elf/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"gcc",
+						"gloss",
+						"xil",
+						"c",
+						"m",
+						"gcc"
+					]
+				},
+				"path" : "/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/bin/mb-gcc",
+				"version" : "11.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

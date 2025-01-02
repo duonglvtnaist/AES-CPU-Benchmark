@@ -1,0 +1,2 @@
+/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/bin/mb-ar qc libtiny-aes.a CMakeFiles/tiny-aes.dir/aes.c.o
+/home/duong/petalinux/2022.1/tools/xsct/gnu/microblaze/lin/bin/mb-ranlib libtiny-aes.a
